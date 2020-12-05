@@ -8,7 +8,7 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it?
 
-![Equator](Images/equatorsign.png)
+![Equator](python_api_challenge/Images/equatorsign.png)
 
 ### Before You Begin
 
@@ -77,7 +77,7 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Plot the hotels on a map with points colored by humidity with each each pin containing the **Hotel Name**, **City**, and **Country** as a tool tip.
 
-  ![hotel map](Images/hotel_map.png)
+![HotelMap](python_api_challenge/Images/hotel_map.png)
 
 As final considerations:
 
